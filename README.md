@@ -1,2 +1,2 @@
 # HoudiniConfig
-Person Houdini Confgi Folder.
+Person Houdini Config Folder.
